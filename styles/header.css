@@ -1,0 +1,14 @@
+header {
+  padding: 10px 20px;
+  color: #fff;
+  background-color: #020617;
+}
+
+.nav-links {
+  display: flex;
+  gap: 20px;
+}
+
+.nav-link {
+  color: #fff;
+}

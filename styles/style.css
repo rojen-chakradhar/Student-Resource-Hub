@@ -19,3 +19,18 @@ body {
   width: 100%;
 }
 
+main {
+  padding: 20px;
+}
+
+.hero {
+  padding: 10px 20px;
+  border-radius: 8px;
+  background-color: #e5e7eb;
+}
+
+footer {
+  padding: 1rem;
+  text-align: center;
+  color: #555;
+}
