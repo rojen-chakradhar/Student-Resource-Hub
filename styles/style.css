@@ -23,6 +23,15 @@ main {
   padding: 20px;
 }
 
+ul {
+  display: flex;
+  gap: 20px;
+}
+
+h2 {
+  font-weight: 600;
+}
+
 .hero {
   margin: 10px 0;
   padding: 10px 20px;
