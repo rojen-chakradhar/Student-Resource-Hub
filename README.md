@@ -1,9 +1,8 @@
 # Student Resource Hub 📚
+![Cover Image](/cover%20image.png)
 Student Resource Hub is a **static educational website** that curates and organizes **free, high-quality learning resources** for students in one place.
 
 Many students struggle to find reliable and genuinely free learning materials. This project aims to reduce that friction by collecting trusted resources and presenting them in a simple, accessible format.
-
-This project is **non-commercial** and built purely for educational purposes.
 
 ## Purpose & Impact
 The main goals of this project are:
@@ -55,9 +54,9 @@ Links are provided for educational reference only. And other topics and the same
 2. Open the project folder.
 3. Open `index.html` in any modern web browser.
 
-### Online
+### Live Demo
 1. Open any browser.
-2. Search rojen-srh.netlify.app
+2. Search [rojen-srh.netlify.app](https://rojen-srh.netlify.app)
 
 ## Future Improvements
 
