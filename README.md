@@ -56,7 +56,6 @@ Links are provided for educational reference only. And other topics and the same
 3. Open `index.html` in any modern web browser.
 
 ### Online
-
 1. Open any browser.
 2. Search rojen-srh.netlify.app
 
